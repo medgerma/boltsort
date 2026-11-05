@@ -1,0 +1,67 @@
+Privacy Policy
+This policy explains how the mobile game BoltSort ("the App"), developed by Screenshots, handles information. By using the App, you agree to this policy.
+
+1. Information we collect
+We do not ask for your name, email, location, contacts, or any account. The App does not require sign-in.
+
+Your game progress (current level, coins, and sound setting) is saved only on your device. We do not receive it, and it is deleted when you uninstall the App.
+
+2. Advertising (Google AdMob)
+The App shows ads provided by Google AdMob. To serve and measure ads, AdMob may automatically collect:
+
+Your device's advertising ID
+IP address and approximate location derived from it
+Device information (model, operating system version, language)
+Interactions with ads (views and clicks) and diagnostic data
+This data is collected and processed by Google, not by us. Learn more in How Google uses information from apps that use its services and the Google Privacy Policy.
+
+You can reset or delete your advertising ID, or opt out of personalized ads, in your device settings: Settings → Google → Ads (or Settings → Privacy → Ads, depending on your device).
+
+3. Data sharing
+We do not sell or share any personal information. The only third party that receives data is Google AdMob, as described above.
+
+4. Data security
+Data sent to Google AdMob is encrypted in transit.
+
+5. Children
+The App is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided information, please contact us and we will help remove it.
+
+6. Changes to this policy
+We may update this policy from time to time. Changes will be posted on this page with a new effective date.
+
+7. Contact
+If you have questions about this policy, contact us at: medgerma903@gmail.com
+
+سياسة الخصوصية
+توضح هذه السياسة كيف تتعامل لعبة BoltSort ("التطبيق")، من تطوير Screenshots، مع المعلومات. باستخدامك للتطبيق فإنك توافق على هذه السياسة.
+
+1. المعلومات التي نجمعها
+لا نطلب اسمك أو بريدك الإلكتروني أو موقعك أو جهات اتصالك، ولا يتطلب التطبيق إنشاء حساب أو تسجيل الدخول.
+
+يتم حفظ تقدمك في اللعبة (المستوى الحالي، العملات، وإعداد الصوت) على جهازك فقط. لا نستلم هذه المعلومات، وتُحذف عند إزالة التطبيق.
+
+2. الإعلانات (Google AdMob)
+يعرض التطبيق إعلانات من Google AdMob. ولعرض الإعلانات وقياسها، قد يجمع AdMob تلقائيًا:
+
+معرّف الإعلانات الخاص بجهازك
+عنوان IP والموقع التقريبي المستنتج منه
+معلومات الجهاز (الطراز، إصدار النظام، اللغة)
+التفاعل مع الإعلانات (المشاهدات والنقرات) وبيانات تشخيصية
+تجمع Google هذه البيانات وتعالجها، وليس نحن. لمعرفة المزيد راجع كيف تستخدم Google المعلومات من التطبيقات التي تستخدم خدماتها وسياسة خصوصية Google.
+
+يمكنك إعادة تعيين معرّف الإعلانات أو حذفه، أو إيقاف الإعلانات المخصصة، من إعدادات جهازك: الإعدادات ← Google ← الإعلانات.
+
+3. مشاركة البيانات
+لا نبيع ولا نشارك أي معلومات شخصية. الطرف الثالث الوحيد الذي يستلم بيانات هو Google AdMob كما هو موضح أعلاه.
+
+4. أمان البيانات
+البيانات المرسلة إلى Google AdMob مشفرة أثناء النقل.
+
+5. الأطفال
+التطبيق غير موجه للأطفال دون 13 عامًا، ولا نجمع عن قصد معلومات شخصية منهم. إذا كنت تعتقد أن طفلًا قدّم معلومات، تواصل معنا وسنساعد في حذفها.
+
+6. التغييرات على هذه السياسة
+قد نحدّث هذه السياسة من وقت لآخر، وسيتم نشر التغييرات في هذه الصفحة مع تاريخ سريان جديد.
+
+7. التواصل
+لأي سؤال حول هذه السياسة، تواصل معنا عبر: medgerma903@gmail.com
